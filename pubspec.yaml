@@ -1,7 +1,8 @@
 name: animated_shimmer
 description: A simple & lightweight widget to display a animated shimmer effect.
 version: 1.0.0
-homepage:
+#author: Shubham Soni <shubhamhackzz@gmail.com>
+homepage: https://github.com/shubhamhackz/animated_shimmer
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
