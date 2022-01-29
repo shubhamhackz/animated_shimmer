@@ -1,6 +1,6 @@
 name: animated_shimmer
-description: A new Flutter package project.
-version: 0.0.1
+description: A simple & lightweight widget to display a animated shimmer effect.
+version: 1.0.0
 homepage:
 
 environment:
